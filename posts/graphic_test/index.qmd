@@ -1,0 +1,8 @@
+---
+title: "index"
+format: html
+---
+
+This is the first visualization I submit for this blog, thank you!
+
+![](graph_test.png)
