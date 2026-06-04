@@ -6,4 +6,10 @@ date: "2026-06-01"
 
 This is the first visualization I submit for this blog, thank you!
 
+```{r}
+
+plot(1,2)
+
+```
+
 ![](graph_test.png)
